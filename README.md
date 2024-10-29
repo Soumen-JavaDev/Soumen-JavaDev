@@ -3,7 +3,7 @@
 👨‍💻 **Java Full Stack Developer**  
 🎓 **B.Tech Student** | **Certified in Java & AWS EC2 & CSS**  
 💼 **Aspiring Google Software Developer**  
-🌍 From **Kultuka, Bankura, West Bengal**
+🌍 From ** Bankura, West Bengal**
 
 ---
 
@@ -11,7 +11,6 @@
 I’m a passionate **Java Full Stack Developer** with strong knowledge in **Data Structures and Algorithms (DSA)** and **Spring Boot**.  
 Currently, I’m pursuing a **B.Tech** degree while enhancing my full-stack development skills, including **HTML**, **CSS**, **Bootstrap**, and **MySQL**.
 
-I'm also the creator of the YouTube channel **DevJourney with Soumen**, where I share tutorials on coding and development.  
 I’m always open to collaboration on interesting projects and open-source contributions.
 
 ---
@@ -27,9 +26,11 @@ I’m always open to collaboration on interesting projects and open-source contr
 
 
 ### 🎓 **Education**
+- **B Tech  in computer science and engineering**
+    Ramkrishna Mahato Government Engineering College(2024-2027)
 - **Diploma in Computer Science & Technology**  
-  Raghunathpur Government Polytechnic (2020 - 2023)  
-  Pursuing diploma with a focus on software development, data structures, and networking basics.
+  Raghunathpur Government Polytechnic (2021 - 2023)  
+
 
 ---
 
@@ -55,13 +56,13 @@ Built using HTML, CSS, and Bootstrap.
 #### [E-commerce Platform](https://github.com/Soumen-JavaDev/spring-boot-ecommerce)
 An online store application using Spring Boot and MySQL with a clean user interface for managing products, orders, and payments.
 
-#### [Data Structures and Algorithms Solutions](https://github.com/Soumen-JavaDev/dsa-java)
+#### [Data Structures and Algorithms Solutions](https://github.com/Soumen-JavaDev/Problem_solution_java)
 A repository of various DSA problems and solutions implemented in Java, covering topics such as sorting algorithms, recursion, and dynamic programming.
 
 ---
 
 ### 🌱 **Currently Learning**
-- Advanced Spring Boot concepts
+- Advanced JavaScript concepts
 - Full-stack project development
 - JavaScript (next on the list!)
 
@@ -71,6 +72,7 @@ A repository of various DSA problems and solutions implemented in Java, covering
 - **LinkedIn**: [Soumen Mondal](https://linkedin.com/in/soumen-mondal-99362b246)  
 - **GitHub**: [Soumen-JavaDev](https://github.com/Soumen-JavaDev)  
 - **LeetCode**: [Soumen_JavaDev](https://leetcode.com/u/Soumen_JavaDev/)
+- **geeksforgeeks**:[Soumen_JavaDev](https://www.geeksforgeeks.org/user/Soumen_JavaDev/)
 
 ---
 
