@@ -26,8 +26,9 @@ I’m always open to collaboration on interesting projects and open-source contr
 
 
 ### 🎓 **Education**
-- **B Tech  in computer science and engineering**
-    Ramkrishna Mahato Government Engineering College(2024-2027)
+- **B Tech  in computer science and engineering**<br/>
+  Ramkrishna Mahato Government Engineering College(2024-2027)
+
 - **Diploma in Computer Science & Technology**  
   Raghunathpur Government Polytechnic (2021 - 2023)  
 
@@ -64,7 +65,7 @@ A repository of various DSA problems and solutions implemented in Java, covering
 ### 🌱 **Currently Learning**
 - Advanced JavaScript concepts
 - Full-stack project development
-- JavaScript (next on the list!)
+- React (next on the list!)
 
 ---
 
@@ -72,7 +73,7 @@ A repository of various DSA problems and solutions implemented in Java, covering
 - **LinkedIn**: [Soumen Mondal](https://linkedin.com/in/soumen-mondal-99362b246)  
 - **GitHub**: [Soumen-JavaDev](https://github.com/Soumen-JavaDev)  
 - **LeetCode**: [Soumen_JavaDev](https://leetcode.com/u/Soumen_JavaDev/)
-- **geeksforgeeks**:[Soumen_JavaDev](https://www.geeksforgeeks.org/user/Soumen_JavaDev/)
+- **geeksforgeeks**:  [Soumen_JavaDev](https://www.geeksforgeeks.org/user/Soumen_JavaDev/)
 
 ---
 
